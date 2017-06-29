@@ -1,10 +1,6 @@
 # 全栈数据工程师养成攻略 个人学习记录
 ## 视频链接
 [ 网易云课堂](http://study.163.com/course/courseMain.htm?courseId=1003520028/) <http://study.163.com/course/courseMain.htm?courseId=1003520028>
-## 教程笔记
-* 5 实战 西游记用字统计
-    * str.strip()
-    * 
 
 ## 课时内容
 - 1 序言 暖个场子
