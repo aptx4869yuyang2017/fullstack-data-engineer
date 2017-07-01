@@ -2,4 +2,3 @@
 *.pyc
 /web/config.py
 /web/venv/
-*.idea
