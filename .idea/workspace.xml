@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a734c40-84af-41a0-a602-33cb18e81251" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8a734c40-84af-41a0-a602-33cb18e81251" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,23 +17,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="word-conter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05-xyj-word-stastic/word-conter.py">
+      <file leaf-file-name="09-10-douban.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09-10-douban-films/09-10-douban.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="31" />
-              <folding>
-                <element signature="e#38#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="08-urllib.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08-urllib2-getdata/08-urllib.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -59,6 +45,7 @@
         <option value="$PROJECT_DIR$/07-word-count/word-conter.py" />
         <option value="$PROJECT_DIR$/05-xyj-word-stastic/word-conter.py" />
         <option value="$PROJECT_DIR$/08-urllib2-getdata/08-urllib.py" />
+        <option value="$PROJECT_DIR$/09-douban-films/09-douban.py" />
       </list>
     </option>
   </component>
@@ -69,10 +56,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="111" />
-    <option name="y" value="33" />
+    <option name="x" value="681" />
+    <option name="y" value="80" />
     <option name="width" value="1232" />
     <option name="height" value="767" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -125,7 +115,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="08-urllib2-getdata" />
+              <option name="myItemId" value="09-10-douban-films" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -380,7 +370,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="111" y="33" width="1232" height="767" extended-state="0" />
+    <frame x="681" y="80" width="1232" height="767" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -423,6 +413,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/08-urllib2-getdata/08-urllib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05-xyj-word-stastic/word-conter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -433,10 +431,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-urllib2-getdata/08-urllib.py">
+    <entry file="file://$PROJECT_DIR$/09-10-douban-films/09-10-douban.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
