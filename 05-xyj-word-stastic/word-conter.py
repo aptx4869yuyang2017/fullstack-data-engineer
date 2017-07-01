@@ -1,7 +1,9 @@
 #!/usr/bin/env python
-# coding:utf-8
+# coding=utf-8
 
 import sys
+import json
+
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
@@ -28,8 +30,27 @@ for line in fr:
 
         times[line[x]] += 1
 
+
+
+fw = open("result.json", "w")
+fw.write(json.dumps(times))
+fw.close()
+
+
+
+times = sorted(times.iteritems(), key=lambda d:d[1], reverse=True)
+
+
+fw = open("result.csv", "w")
+
+for item in times:
+
+    fw.write(item[0] + "," + str(item[1]) + "\n")
+
+
+fw.close()
+
+fr.close()
+
 print len(word)
 print len(times)
-
-
-print "hello"
