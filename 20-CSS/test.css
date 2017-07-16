@@ -1,0 +1,13 @@
+h2 {
+	font-family: 'Nothing You Could Do', cursive;
+	margin-top: 35px;
+	margin-bottom: 18px;
+	border-bottom: 2px solid #08c;
+	line-height: 33px;
+}
+
+h2#introduction {
+	font-weight: bold;
+	border-bottom: 2px solid transparent;
+	color: #468847;
+}
